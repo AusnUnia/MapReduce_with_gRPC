@@ -1,4 +1,0 @@
-/home/ausn/Desktop/gRPC_test/CMakeFiles/server.dir
-/home/ausn/Desktop/gRPC_test/CMakeFiles/client.dir
-/home/ausn/Desktop/gRPC_test/CMakeFiles/edit_cache.dir
-/home/ausn/Desktop/gRPC_test/CMakeFiles/rebuild_cache.dir
